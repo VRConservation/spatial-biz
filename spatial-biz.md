@@ -15,7 +15,7 @@ authors:
     email: chris@aegisconservation.com    
 keywords: conservation measures, forest health, business
 abstract: |
-  Add abstract here
+  Tools used in the planning of conservation projects, such as Miradi and the Open Standards for the Practice of Conservation, help practitioners to carry out their work in a systematic manner, but they provide very little assistance with the geospatial analysis and mapping that are essential to conservation strategies. Furthermore, the methodologies employed in conservation action planning do not include an empirical evaluation of ecological conditions at the landscape level, which means that practitioners are forced to carry out geospatial analysis as a separate and independent activity. Drawing on examples from the Marin County Forest Health Strategy—such as fire history, the spread of young Douglas-fir beyond the recent fire perimeters, and the areas that have been mapped as departing from desired conditions—we look at cases in which geospatial analysis is directly integrated with these conservation planning frameworks. We demonstrate how situation models, theories of change, and results chains can connect the variables that drive ecosystems with business operations to conservation objectives, treatments, and measurable outcomes. We then describe a learning-and-adaptation feedback loop and give readers access to the Forest Business Alliance templates and guidance for implementing such integrated practices over large landscapes.
 kernelspec:
   name: python3
   display_name: Python 3
@@ -28,6 +28,9 @@ exports:
     template: lapreprint-typst
     output: article-name.pdf     
 ---
+
+**CHANGE TITLE TO CMP GEOSPATIAL CASE STUDY** OR SOMETHING LIKE THAT AND REMOVE THE BUSINESS PLANNING ANGLE
+
 
 :::{figure} images/geo.png
 :alt: geo.png
